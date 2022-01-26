@@ -14,5 +14,4 @@ public class Transaction {
         this.accountTo = accountTo;
         this.time = System.currentTimeMillis();
     }
-
 }
